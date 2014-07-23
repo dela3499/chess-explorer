@@ -1,0 +1,42 @@
+#board {
+    margin-top: 1em;
+    width: 100%;
+}
+#content {
+    width: 100vw;
+    height: 100vh;
+/*    background: #f4f4ff;*/
+    background: url(../img/png/42.png);
+}
+#options-panel {
+    width: 19vw;
+    height: 100vh;
+    float: left;
+/*    border-right: 1px solid #acb7d8;*/
+/*    background: url(../img/png/18.png);*/
+/*    background: url(../img/png/42.png);*/
+}
+#play-panel {
+    width: 40vw;
+    height: 100vh;
+/*    background: #000;*/
+    float: left;
+}
+#move-panel {
+    width: 40vw;
+    height: 100vh;
+    float: left;
+}
+#options-panel h1 {
+    margin: 0 0;
+    padding-top: 1vw;
+    padding-left: 1vw;
+    font-size: 2.5vw;
+    color: #f00;
+}
+#options-panel h2 {
+    color: #000;
+    float:left;
+    padding-left: 1vw;
+    font-size: 1em;
+}

@@ -1,5 +1,5 @@
 This app will allow you to explore a branching game by showing the full tree of moves you've made. You'll be able to backtrack, create new branches, and try out new ideas while keeping your old ideas in reach. [I think this will make studying games easier.](http://carlosd.ghost.io/exploring-chess-moves/)
 
-If you take a look at the mockup (at the link above), you'll see a chess board on the left and a two-tab panel on the right. The board is, as usual, both the user interface for making moves, and for showing the current board position. The first tab of the right panel shows the entire move tree (not of possible moves, but of those you've made). It will operate as follows: 
+If you take a look at the mockup (link at top of page), you'll see a chess board on the left and a two-tab panel on the right. The board is, as usual, both the user interface for making moves, and for showing the current board position. The first tab of the right panel shows the entire move tree (not of possible moves, but of those you've made). It will operate as follows: 
 1. Hover over move - show associated board position on primary board
 2. Click move - set the active move to the clicked one, and display the associated board position. 
